@@ -1,0 +1,10 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+D:/TP1\ LAOC\ II/ArthurEstevao_MarceloCandido_pratica1/Parte\ III/ImplementaÃ§Ã£o_FINAL {D:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL/parte3.v}
+vlog -vlog01compat -work work +incdir+D:/TP1\ LAOC\ II/ArthurEstevao_MarceloCandido_pratica1/Parte\ III/ImplementaÃ§Ã£o_FINAL {D:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL/cache_ass_conj.v}
+

@@ -1,0 +1,64 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\mlfca\Desktop\processador
+vdisp7seg
+!i10b 1
+!s100 ZlLNM[RdHD@XLVh[kac?52
+I[0dfWW3YWCnbH:DzAK[SZ3
+V42=M51[^:LU9:`EkhgLjK0
+Z1 dC:\Users\mlfca\Desktop\TP1\TP1
+Z2 w1533502281
+Z3 8C:/Users/mlfca/Desktop/TP1/TP1/Parte I/TP1_parteI.v
+Z4 FC:/Users/mlfca/Desktop/TP1/TP1/Parte I/TP1_parteI.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1533502381.769000
+Z7 !s107 C:/Users/mlfca/Desktop/TP1/TP1/Parte I/TP1_parteI.v|
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/mlfca/Desktop/TP1/TP1/Parte I/TP1_parteI.v|
+!s101 -O0
+Z9 o-work work -O0
+vRAMlpm
+Z10 I7FG0T4>aGoFLcVciH:hT41
+Z11 V7VQhiQ@YnKf8gWH[>^TM30
+R1
+Z12 w1533310840
+Z13 8C:/Users/mlfca/Desktop/TP1/TP1/Parte I/RAMlpm.v
+Z14 FC:/Users/mlfca/Desktop/TP1/TP1/Parte I/RAMlpm.v
+L0 39
+R5
+r1
+31
+R9
+Z15 n@r@a@mlpm
+!i10b 1
+Z16 !s100 C_T=]_CI:<LV;;Q_nlo_e3
+!s85 0
+Z17 !s108 1533502381.558000
+Z18 !s107 C:/Users/mlfca/Desktop/TP1/TP1/Parte I/RAMlpm.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/mlfca/Desktop/TP1/TP1/Parte I/RAMlpm.v|
+!s101 -O0
+vTP1_parteI
+!i10b 1
+!s100 3kceLH3Q=1k3V;a0`2k762
+IPaKHU:i2hUZRU0zl:QiJc1
+V]DIiiB5nFY;3d_h@X`hm13
+R1
+R2
+R3
+R4
+L0 57
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+n@t@p1_parte@i

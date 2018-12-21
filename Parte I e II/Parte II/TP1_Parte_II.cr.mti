@@ -1,0 +1,17 @@
+{C:/Users/mlfca/Desktop/TP1/Parte II/Quartus/TP1_Parte_II.v} {1 {vlog -work work {C:/Users/mlfca/Desktop/TP1/Parte II/Quartus/TP1_Parte_II.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module disp7seg
+-- Compiling module TP1_Parte_II
+
+Top level modules:
+	disp7seg
+	TP1_Parte_II
+
+} {} {}} {C:/Users/mlfca/Desktop/TP1/Parte II/Quartus/ramLPM.v} {1 {vlog -work work {C:/Users/mlfca/Desktop/TP1/Parte II/Quartus/ramLPM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ramLPM
+
+Top level modules:
+	ramLPM
+
+} {} {}}

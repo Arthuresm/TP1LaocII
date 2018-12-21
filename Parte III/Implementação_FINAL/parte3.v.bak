@@ -1,0 +1,12 @@
+module parte3(SW,LEDG,LEDR);
+	input [17:0]SW;
+	output [0:0]LEDG;
+	output [17:0]LEDR;
+	
+	
+
+
+
+
+
+endmodule

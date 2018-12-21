@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\TP1 LAOC II\ArthurEstevao_MarceloCandido_pratica1\Parte III\Implementação_FINAL\simulation\modelsim
+vcache_ass_conj
+!i10b 1
+!s100 UMbU9l0:eF>n=mZUK6?d<0
+I^l>oOoekce2`f[7^A`ZXn2
+Ve6@V1RF2d]hTTVI[QDknd1
+Z1 dD:\TP1 LAOC II\ArthurEstevao_MarceloCandido_pratica1\Parte III\Implementação_FINAL\simulation\modelsim
+w1535117716
+8D:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL/cache_ass_conj.v
+FD:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL/cache_ass_conj.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1535120039.844000
+!s107 D:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL/cache_ass_conj.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL|D:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL/cache_ass_conj.v|
+!s101 -O0
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work {+incdir+D:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL} -O0
+vdisp7seg
+InM=b7WfmI6DPI?EmjlbQf1
+V42=M51[^:LU9:`EkhgLjK0
+R1
+Z5 w1535116803
+Z6 8D:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL/parte3.v
+Z7 FD:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL/parte3.v
+L0 1
+R2
+r1
+31
+Z8 !s108 1535120038.738000
+Z9 !s107 D:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL/parte3.v|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL|D:/TP1 LAOC II/ArthurEstevao_MarceloCandido_pratica1/Parte III/Implementação_FINAL/parte3.v|
+R3
+R4
+!i10b 1
+!s100 zbUzPIfJDLlAbcAd`LzKB0
+!s85 0
+!s101 -O0
+vparte3
+ITCFoYCdz8^GDQ0eFVj2fo3
+VER9>7ORZfAB@Hc4B]5`Rh3
+R1
+R5
+R6
+R7
+L0 31
+R2
+r1
+31
+R8
+R9
+R10
+R3
+R4
+!i10b 1
+!s100 eWBYk=>35Z:Fo^XVKa_bd0
+!s85 0
+!s101 -O0

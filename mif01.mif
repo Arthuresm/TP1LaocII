@@ -1,0 +1,55 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions
+-- and other software and tools, and its AMPP partner logic
+-- functions, and any output files from any of the foregoing
+-- (including device programming or simulation files), and any
+-- associated documentation or information are expressly subject
+-- to the terms and conditions of the Altera Program License
+-- Subscription Agreement, Altera MegaCore Function License
+-- Agreement, or other applicable license agreement, including,
+-- without limitation, that your use is for the sole purpose of
+-- programming logic devices manufactured by Altera and sold by
+-- Altera or its authorized distributors.  Please refer to the
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=48;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+    0   :   0000000000000111; -- mvi02;
+    1   :   0000000000000010;
+    2   :   0000000000010111; -- mvi13;
+    3   :   0000000000000011;
+    4   :   0000000000010001; -- add10;
+    5   :   0000000000100111; -- mvi26;
+    6   :   0000000000000110;
+    7   :   0000000010100010; -- sub21;
+    8   :   0000000100111000; -- mv32;
+    9   :   0000000110000011; -- or03;
+    10   :   0000000110000100; -- sll03;
+    11   :   0000000110000101; -- srl03;
+    12   :   0000000010000110; -- slt01;
+    13   :   0000000110000110; -- slt03;
+    14   :   0000000000110111; -- mvi33;
+    15   :   0000000000000011;
+    16   :   0000000110000001; -- add03;
+    17   :   0000000110101011; -- ld23;
+    18   :   0000000110100001; -- add23;
+    19   :   0000000000101010; -- sd20;
+    20   :   0000000000001011; -- ld00;
+    21   :   0000000110000010; -- sub03;
+    22   :   0000000000000111; -- mvi00;
+    23   :   0000000000000000;
+    24   :   0000000000000001; -- add00;
+    25   :   0000000100001001; -- mvnz02;
+    26   :   0000000110000010; -- sub03;
+    27   :   0000000100001001; -- mvnz02;
+    28   :   0000000110000001; -- add03;
+
+	[29..47]  :   0000000000000000;
+END;

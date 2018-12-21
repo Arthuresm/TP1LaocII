@@ -1,0 +1,10 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/aluno/Downloads/TP1/Parte\ I/Quartus {C:/Users/aluno/Downloads/TP1/Parte I/Quartus/RAMlpm.v}
+vlog -vlog01compat -work work +incdir+C:/Users/aluno/Downloads/TP1/Parte\ I/Quartus {C:/Users/aluno/Downloads/TP1/Parte I/Quartus/TP1_parteI.v}
+

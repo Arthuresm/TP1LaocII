@@ -1,0 +1,17 @@
+{C:/Users/mlfca/Desktop/TP1/TP1/Parte I/TP1_parteI.v} {1 {vlog -work work {C:/Users/mlfca/Desktop/TP1/TP1/Parte I/TP1_parteI.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module disp7seg
+-- Compiling module TP1_parteI
+
+Top level modules:
+	disp7seg
+	TP1_parteI
+
+} {} {}} {C:/Users/mlfca/Desktop/TP1/TP1/Parte I/RAMlpm.v} {1 {vlog -work work {C:/Users/mlfca/Desktop/TP1/TP1/Parte I/RAMlpm.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RAMlpm
+
+Top level modules:
+	RAMlpm
+
+} {} {}}

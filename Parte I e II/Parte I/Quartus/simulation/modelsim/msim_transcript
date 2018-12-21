@@ -1,0 +1,83 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do TP1_parteI_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte\ I/Quartus {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/RAMlpm.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module RAMlpm
+# 
+# Top level modules:
+# 	RAMlpm
+# vlog -vlog01compat -work work +incdir+C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte\ I/Quartus {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/TP1_parteI.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module disp7seg
+# -- Compiling module TP1_parteI
+# 
+# Top level modules:
+# 	disp7seg
+# 	TP1_parteI
+# 
+vsim work.TP1_parteI
+# vsim work.TP1_parteI 
+# Loading work.TP1_parteI
+# Loading work.RAMlpm
+# ** Error: (vsim-3033) C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/RAMlpm.v(85): Instantiation of 'altsyncram' failed. The design unit was not found.
+# 
+#         Region: /TP1_parteI/ram
+#         Searched libraries:
+#             C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/simulation/modelsim/rtl_work
+# Error loading design
+vsim -voptargs=+acc work.TP1_parteI
+# vsim -voptargs=+acc work.TP1_parteI 
+# Loading work.TP1_parteI
+# Loading work.RAMlpm
+# ** Error: (vsim-3033) C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/RAMlpm.v(85): Instantiation of 'altsyncram' failed. The design unit was not found.
+# 
+#         Region: /TP1_parteI/ram
+#         Searched libraries:
+#             C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/simulation/modelsim/rtl_work
+# Error loading design
+vsim -Lf altera_mf_ver -voptargs=+acc work.TP1_parteI
+# vsim -Lf altera_mf_ver -voptargs=+acc work.TP1_parteI 
+# Loading work.TP1_parteI
+# Loading work.RAMlpm
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+do {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/simulation/modelsim/TP1_parteI_run_msim_rtl_verilog.do}
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte\ I/Quartus {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/RAMlpm.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module RAMlpm
+# 
+# Top level modules:
+# 	RAMlpm
+# vlog -vlog01compat -work work +incdir+C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte\ I/Quartus {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/TP1_parteI.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module disp7seg
+# -- Compiling module TP1_parteI
+# 
+# Top level modules:
+# 	disp7seg
+# 	TP1_parteI
+# 
+do {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/simulation/modelsim/wave.do}
+# .main_pane.wave.interior.cs.body.pw.wf
+# 1
+# 1
+# 1
+quit

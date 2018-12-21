@@ -1,0 +1,15 @@
+-- begin_signature
+-- cache_ass_conj
+-- end_signature
+WIDTH=2;
+DEPTH=4;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	3 :	11;
+	2 :	10;
+	1 :	01;
+	0 :	11;
+END;

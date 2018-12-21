@@ -1,0 +1,67 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Downloads\new-20180817T162303Z-001\new\Parte I\Quartus\simulation\modelsim
+vdisp7seg
+!i10b 1
+!s100 GaT;C_T:MeK5AGbIc:E_d2
+I29J:zaVd;FDd]7PLE`2@P2
+V42=M51[^:LU9:`EkhgLjK0
+Z1 dC:\Users\Aluno\Downloads\new-20180817T162303Z-001\new\Parte I\Quartus\simulation\modelsim
+Z2 w1534256334
+Z3 8C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/TP1_parteI.v
+Z4 FC:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/TP1_parteI.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1534524501.649000
+Z7 !s107 C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/TP1_parteI.v|
+Z8 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus|C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/TP1_parteI.v|
+!s101 -O0
+Z9 o-vlog01compat -work work -O0
+Z10 !s92 -vlog01compat -work work {+incdir+C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus} -O0
+vRAMlpm
+IWMdnW5ASL;a5KMIeoaLVk1
+V7VQhiQ@YnKf8gWH[>^TM30
+R1
+R2
+8C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/RAMlpm.v
+FC:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/RAMlpm.v
+L0 39
+R5
+r1
+31
+R9
+n@r@a@mlpm
+!i10b 1
+!s100 LfhR<Vaj6I:3:LB?I=cZ;2
+!s85 0
+!s108 1534524501.508000
+!s107 C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/RAMlpm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus|C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte I/Quartus/RAMlpm.v|
+!s101 -O0
+R10
+vTP1_parteI
+!i10b 1
+!s100 j^T>HAA0IZXef:XmBzUzW3
+IzeH[J_z^cRZzM;fnf?nfh3
+V]DIiiB5nFY;3d_h@X`hm13
+R1
+R2
+R3
+R4
+L0 58
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10
+n@t@p1_parte@i

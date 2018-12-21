@@ -1,0 +1,64 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vdisp7seg
+!i10b 1
+!s100 hOn`U[<UVea@Y68=Jj6g21
+IM26QdR]k^RRMc?lILi8;K0
+Z1 V42=M51[^:LU9:`EkhgLjK0
+Z2 dC:\Users\Aluno\Desktop\TP1\Parte II\Modelsim
+Z3 w1533919044
+Z4 8C:/Users/Aluno/Desktop/TP1/Parte II/Quartus/TP1_Parte_II.v
+Z5 FC:/Users/Aluno/Desktop/TP1/Parte II/Quartus/TP1_Parte_II.v
+L0 1
+Z6 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z7 !s108 1533919576.208000
+Z8 !s107 C:/Users/Aluno/Desktop/TP1/Parte II/Quartus/TP1_Parte_II.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Aluno/Desktop/TP1/Parte II/Quartus/TP1_Parte_II.v|
+!s101 -O0
+Z10 o-work work -O0
+vramLPM
+Z11 IfTGVzDMB`BZSE27?_Po6[2
+Z12 V5k=5XSQdWIC:geG]M<Gmz0
+R2
+Z13 w1533918367
+Z14 8C:/Users/Aluno/Desktop/TP1/Parte II/Quartus/ramLPM.v
+Z15 FC:/Users/Aluno/Desktop/TP1/Parte II/Quartus/ramLPM.v
+L0 39
+R6
+r1
+31
+R10
+Z16 nram@l@p@m
+!i10b 1
+Z17 !s100 n_4J;QCe;CnadN?A5=0ME1
+!s85 0
+Z18 !s108 1533919575.989000
+Z19 !s107 C:/Users/Aluno/Desktop/TP1/Parte II/Quartus/ramLPM.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Aluno/Desktop/TP1/Parte II/Quartus/ramLPM.v|
+!s101 -O0
+vTP1_Parte_II
+!i10b 1
+!s100 j>ODP5Y3RNFSa;Xd;V=M>3
+I^LgY^njEBGPfI<Oa<MTQO1
+V86anIMIb<zcc^IR:1?eCC1
+R2
+R3
+R4
+R5
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+R10
+Z21 n@t@p1_@parte_@i@i

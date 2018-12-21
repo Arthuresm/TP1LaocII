@@ -1,0 +1,79 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do TP1_Parte_II_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte\ II/Quartus {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte II/Quartus/ramLPM.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ramLPM
+# 
+# Top level modules:
+# 	ramLPM
+# vlog -vlog01compat -work work +incdir+C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte\ II/Quartus {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte II/Quartus/TP1_Parte_II.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module disp7seg
+# -- Compiling module TP1_Parte_II
+# 
+# Top level modules:
+# 	disp7seg
+# 	TP1_Parte_II
+# 
+vsim +altera -Lf altera_mf_ver -do TP1_Parte_II_run_msim_rtl_verilog.do -l msim_transcript -gui work.TP1_Parte_II
+# vsim +altera -Lf altera_mf_ver -do TP1_Parte_II_run_msim_rtl_verilog.do -l msim_transcript -gui work.TP1_Parte_II 
+# Loading work.TP1_Parte_II
+# Loading work.ramLPM
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# do TP1_Parte_II_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte\ II/Quartus {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte II/Quartus/ramLPM.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ramLPM
+# 
+# Top level modules:
+# 	ramLPM
+# vlog -vlog01compat -work work +incdir+C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte\ II/Quartus {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte II/Quartus/TP1_Parte_II.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module disp7seg
+# -- Compiling module TP1_Parte_II
+# 
+# Top level modules:
+# 	disp7seg
+# 	TP1_Parte_II
+# 
+do {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte II/Quartus/simulation/modelsim/wave.do}
+# .main_pane.wave.interior.cs.body.pw.wf
+# 1
+# 1
+# 1
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte II/Quartus/simulation/modelsim/wave.do}
+wave editwrite -file {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte II/Quartus/simulation/modelsim/wave.do} -append
+do {C:/Users/Aluno/Downloads/new-20180817T162303Z-001/new/Parte II/Quartus/simulation/modelsim/wave.do}
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+# 
+#           File in use by: aluno  Hostname: NTIC-LAB-XYX  ProcessID: 3328
+# 
+#           Attempting to use alternate WLF file "./wlftgj2g5j".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+# 
+#           Using alternate file: ./wlftgj2g5j
+# 
+# .main_pane.wave.interior.cs.body.pw.wf
+# 1
+# 1
+# 1
+quit
